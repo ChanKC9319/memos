@@ -1,5 +1,4 @@
 name: Frontend Test
-
 on:
   pull_request:
     branches:
